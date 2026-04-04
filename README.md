@@ -1,6 +1,6 @@
 # Binary adder in an Airbus Beluga-shaped PCB
 
-This is a simple binary adder in the form of an Airbus Beluga. It is a simple project for me to learn how to use ICs.
+This is a simple binary adder in the form of an Airbus Beluga. It is a simple project for me to learn how to use ICs. This is for [Resolution Week 3](https://github.com/SwiftDust/Resolution) but a new rule states you can't use monorepos so that's why I made this separate repository.
 
 ![3d PCB](/Attachments/3d.png)
 
